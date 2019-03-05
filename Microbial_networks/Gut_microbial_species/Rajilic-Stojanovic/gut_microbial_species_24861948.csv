@@ -1,0 +1,966 @@
+Phylum,Class-Order,Family,Species,Reference,Genome sequence
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces canis,"(McLaughlin et al., 2010)",none
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces cardiffensis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces georgiae,"(Lagier et al., 2012)",NZ_AKFS01000302.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces graevenitzii,"(Eckburg et al., 2005)",NZ_JH470338.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces grossensis,"(Lagier et al., 2012)",NZ_CAGY01000001.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces naeslundii,"(Finegold et al., 1977)",NZ_ALJK01000149.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces odontolyticus,"(Lagier et al., 2012)",NZ_DS264586.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces oris,"(Lagier et al., 2012)",NZ_BABV01000691.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces radingae,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces turicensis,"(Walker et al., 2011)",NZ_JH815208.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces viscosus,"(Bik et al., 2006)",none
+Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces urogenitalis,"(Favier et al., 2002)",NZ_DS999576.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Arcanobacterium haemolyticum,"(Lagier et al., 2012)",NC_014218.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Arcanobacterium pyogenes,"(Taylor et al., 1985)",none
+Actinobacteria,Actinomycetales,Actinomycetaceae,Mobiluncus curtisii,"(Lagier et al., 2012)",NC_014246.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Varibaculum cambriense,"(Lagier et al., 2012)",NZ_ATUF01000002.1
+Actinobacteria,Actinomycetales,Actinomycetaceae,Trueperella bernardiae,"(Yassin et al., 2011; Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Bogoriellaceae,Georgenia muralis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium casei,"(Lagier et al., 2012)",NZ_AMSP01000001.1
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium epidermidis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium halotolerans,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium iodinum,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium linens,"(Lagier et al., 2012)",NZ_AAGP01000003.1
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium massiliense,"(Pfleiderer et al., 2013)",NZ_CAJD01000009.1
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium pityocampae,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium ravenspurgense,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Brevibacteriaceae,Brevibacterium senegalense,"(Lagier et al., 2012)",NZ_CAHK01000065.1
+Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas composti,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas denverensis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas massiliensis,"(Lagier et al., 2012)",NZ_HE978592.1
+Actinobacteria,Actinomycetales,Cellulomonadaceae,Cellulomonas parahominis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium ammoniagenes,"(Cooke & Keith, 1927)",NZ_GG771310.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium afermentans,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium amycolatum,"(Lagier et al., 2012)",ABZU01000001.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium appendicis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium aurimucosum,"(Lagier et al., 2012)",NC_012590.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium coyleae,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium durum,"(Eckburg et al., 2005)",NZ_KB290831.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium freneyi,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium glaucum,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium glucuronolyticum,"(Lagier et al., 2012)",GG667128.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium kroppenstedtii,"(Lagier et al., 2012)",NC_012704.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium minutissimum,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium mucifaciens,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium propinquum,"(Lagier et al., 2012)",NZ_AQXC01000005.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium pseudodiphthericum,"(Drasar & Hill, 1974)",NZ_AVFF01000041.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium sanguinis,"(Manichanh et al., 2008)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium simulans,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium striatum,"(Lagier et al., 2012)",NZ_GG667520.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium sundsvallense,"(Eckburg et al., 2005)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium tuberculostearicum,"(Lagier et al., 2012)",NZ_ACVP01000023.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium ulcerans,"(Drasar & Hill, 1974)",NC_015683.1
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium ureicelerivorans,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium xerosis,"(Drasar & Hill, 1974)",none
+Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium paraconglomeratum,"(Manichanh et al., 2008)",NZ_AGSO01000004.1
+Actinobacteria,Actinomycetales,Dermabacteraceae,Dermabacter hominis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Dermacoccaceae,Dermacoccus nishinomiyaensis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Dermacoccaceae,Kytococcus schroeteri,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Dermacoccaceae,Kytococcus sedentarius,"(Pfleiderer et al., 2013)",NC_013169.1
+Actinobacteria,Actinomycetales,Dietziaceae,Dietzia cinnamea,"(Lagier et al., 2012)",AEKG01000136.1
+Actinobacteria,Actinomycetales,Dietziaceae,Dietzia maris,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Dietziaceae,Dietzia natronolimnaea,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Geodermatophilaceae,Blastococcus massiliensis,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Gordoniaceae,Gordonia rubripertincta,"(Lagier et al., 2012)",BAHB01000068.1
+Actinobacteria,Actinomycetales,Gordoniaceae,Gordonia terrae,"(McLaughlin et al., 2010)",NZ_AQPW01000004.1
+Actinobacteria,Actinomycetales,Intrasporangiaceae,Janibacter limosus,"(Hoyles et al., 2012)",none
+Actinobacteria,Actinomycetales,Intrasporangiaceae,Janibacter terrae,"(McLaughlin et al., 2010)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Agrococcus jejuensis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Agrococcus terreus,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Curtobacterium flaccumfaciens,"(Lagier et al., 2012)",NZ_KB714628.1
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium aurum,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium chocolatum,"(McLaughlin et al., 2010)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium foliorum,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium gubbeenense,"(Lagier et al., 2012)",AUGQ01000001.1
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium hydrocarbonoxydans,"(Dubourg et al., 2013)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium lacticum,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium luteolum,"(Hoyles et al., 2013)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium oleivorans,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium paraoxydans,"(Lagier et al., 2012)",NZ_AQYI01000007.1
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium phyllosphaerae,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Microbacterium schleiferi,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Pseudoclavibacter massiliense,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Microbacteriaceae,Yonghaparkia alkaliphila,"(McLaughlin et al., 2010)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter albus,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter castelli,"(Lagier et al., 2012)",AUMN01000001.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter oxydans,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Arthrobacter polychromogenes,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria halotolerans,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria kristinae,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria marina,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria palustris,"(Lagier et al., 2012)",NZ_ANHZ02000002.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria rhizophila,"(Lagier et al., 2012)",NC_010617.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Kocuria rosea,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Micrococcus luteus,"(Finegold et al., 1974)",NC_012803.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Micrococcus lylae,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Micrococcaceae,Rothia aeria,"(Lagier et al., 2012)",NZ_KI518028.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Rothia dentocariosa,"(Taylor et al., 1985)",NC_014643.1
+Actinobacteria,Actinomycetales,Micrococcaceae,Rothia mucilaginosa,"(Lagier et al., 2012)",NC_013715.1
+Actinobacteria,Actinomycetales,Micromonosporaceae,Micromonospora aurantiaca,"(Lagier et al., 2012)",NC_014391.1
+Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium avium,"(Thorel et al., 1990)",NC_008595.1
+Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium abscessus,"(Lagier et al., 2012)",NC_010397.1
+Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium florentinum,"(Tortoli et al., 2005)",none
+Actinobacteria,Actinomycetales,Mycobacteriaceae,Mycobacterium fortuitum,"(Lagier et al., 2012)",NZ_JH814725.1
+Actinobacteria,Actinomycetales,Nocardiaceae,Rhodococcus equi,"(Lagier et al., 2012)",NC_014659.1
+Actinobacteria,Actinomycetales,Nocardiaceae,Rhodococcus erythropolis,"(Walker et al., 2011)",NC_022115.1
+Actinobacteria,Actinomycetales,Nocardiaceae,Rhodococcus rhodochrous,"(Lagier et al., 2012)",NZ_AGVW02000027.1
+Actinobacteria,Actinomycetales,Promicromonosporaceae,Promicromonospora flava,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Promicromonosporaceae,Cellulosimicrobium cellulans,"(Lagier et al., 2012)",CAOI01000001.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Aeromicrobium massiliense,"(Lagier et al., 2012)",HE978636.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium acidipropionici,"(Ramotar et al., 1984)",NC_019395
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium acnes,"(Moore & Holdeman, 1974)",NC_018707.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium avidum,"(Eggerth, 1935)",NC_021064.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium freudenreichii,"(Lagier et al., 2012)",NC_014215.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium granulosum,"(Finegold et al., 1974)",NZ_AOST01000023.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium jensenii,"(Taylor et al., 1985)",AUDD01000001.1
+Actinobacteria,Actinomycetales,Propionibacterineae,Propionibacterium propionicum,"(Ramotar et al., 1984)",NC_018142.1
+Actinobacteria,Actinomycetales,Streptomycetaceae,Streptomyces massiliensis,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Actinomycetales,Streptomycetaceae,Streptomyces misionensis,"(Lagier et al., 2012)",none
+Actinobacteria,Actinomycetales,Streptomycetaceae,Streptomyces thermovulgaris,"(Dubourg et al., 2013)",none
+Actinobacteria,Actinomycetales,Streptomycetaceae,Streptomyces thermoviolaceus,"(Hoyles et al., 2012)",none
+Actinobacteria,Actinomycetales,Micrococcineae,Tropheryma whipplei,"(Raoult et al., 2010)",NC_004551.1
+Actinobacteria,Actinomycetales,Micrococcineae,Timonella senegalensis,"(Lagier et al., 2012)",HE978641.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium adolescentis,"(Reuter, 1963)",NC_008618.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium angulatum,"(Scardovi & Crociani, 1974)",NZ_GG663535.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium animalis,"(Pfleiderer et al., 2013)",NC_022523.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium bifidum,"(Tissier, 1900)",NC_014616.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium boum,"(Woodmansey et al., 2004)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium breve,"(Reuter, 1963)",NC_017218.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium catenulatum,"(Scardovi & Crociani, 1974)",NZ_ABXY01000011.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium coryneforme,"(Woodmansey et al., 2004)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium dentium,"(Scardovi & Crociani, 1974)",NC_013714.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium gallicum,"(Lauer, 1990)",NZ_ABXB03000001.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium kashiwanohense,"(Morita et al., 2011)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium longum,"(Reuter, 1963)",NC_004307.2
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium mongoliense,"(Lagier et al., 2012)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium pseudocatenulatum ,"(Scardovi et al., 1979)",NZ_ABXX02000002.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium pseudolongum,"(Moore & Holdeman, 1974)",NZ_ATWW01000003.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium ruminantium,"(Lagier et al., 2012)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium scardovii,"(Favier et al., 2002)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium stercoris,"(Kim et al., 2010)",none
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium thermophilum,"(Finegold et al., 1974)",NC_020546.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium thermacidophilum,"(Moroni et al., 2006)",AUFI01000007.1
+Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Scardovia inopinata,"(Lagier et al., 2012)",NZ_GG770225.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Asaccharobacter celatus,"(Pfleiderer et al., 2013)",none
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Adlercreutzia equolifaciens,"(Maruo et al., 2008)",NC_022567.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Atopobium minutum,"(Moore & Holdeman, 1974; Collins & Wallbanks, 1992)",NZ_KB822533.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Atopobium parvulum,"(Finegold et al., 1974; Collins & Wallbanks, 1992)",NC_013203.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Atopobium rimae,"(Lagier et al., 2012)",NZ_ACFE01000001.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella aerofaciens,"(Moore & Holdeman, 1974; Kageyama et al., 1999)",NZ_AAVN02000001.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella intestinalis,"(Kageyama & Benno, 2000)",NZ_GG692710.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella stercoris,"(Kageyama & Benno, 2000)",NZ_DS995479.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella tanakaei,"(Nagai et al., 2010)",NZ_JH126467.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Cryptobacterium curtum,"(Bik et al., 2006)",NC_013170.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Eggerthella lenta,"(Eggerth, 1935; Kageyama et al., 1999)",NC_013204.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Enorma massiliensis,"(Lagier et al., 2012)",HE978575.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Gordonibacter pamelaeae,"(Würdemann et al., 2009)",NC_021021.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Olsenella profusa,"(Lagier et al., 2012)",NZ_AWEZ01000043.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Olsenella uli,"(Lagier et al., 2012)",NC_014363.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Paraeggerthella hongkongensis,"(Lau et al., 2004; Würdemann et al., 2009)",none
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Senegalemassilia anaerobia,"(Lagier et al., 2012)",HE611014.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Slackia equolifaciens,"(Jin et al., 2009)",none
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Slackia exigua,"(Lagier et al., 2012)",NZ_GG700630.1
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Slackia isoflavoniconvertens,"(Matthies et al., 2009)",none
+Actinobacteria,Coriobacteriales,Coriobacteriaceae,Slackia piriformis,"(Nagai et al., 2010)",NZ_JH815198.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides caccae,"(Johnson et al., 1986)",NZ_JH724079.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides cellulosilyticus,"(Robert & Bernalier-Donadille, 2003; Robert et al., 2007)",NZ_JH724087.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides clarus,"(Watanabe et al., 2009)",GL882599.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides coprocola,"(Kitahara et al., 2005)",NZ_DS981509.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides coprophilus,"(Hayashi et al., 2007)",NZ_EQ973650.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides dorei,"(Bakir et al., 2006)",NZ_JH724141.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides faecis,"(Kim et al., 2009)",NZ_AGDG01000027.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides eggerthii,"(Holdeman & Moore, 1974)",NZ_AKBX01000001.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides finegoldii,"(Bakir et al., 2005)",NZ_JH951901.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides fluxus,"(Watanabe et al., 2009)",NZ_GL882623.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides fragilis,"(Veillon & Zuber, 1898)",NC_016776.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides graminisolvens,"(Li et al., 2008)",none
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides intestinalis,"(Bakir et al., 2005)",NZ_ABJL02000008.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides massiliensis,"(Walker et al., 2011)",NZ_KB905472.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides nordii,"(Song et al., 2004)",NZ_JH724314.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides oleiciplenus,"(Watanabe et al., 2009)",none
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides ovatus,"(Eggerth & Gagnon, 1933)",NZ_JH724241.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides plebeius,"(Kitahara et al., 2005)",NZ_DS990130.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides pyogenes,"(Macfarlane et al., 2004; Sakamoto et al., 2010)",NZ_KE993161.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides salyersiae,"(Song et al., 2004)",NZ_KB905466.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides stercoris,"(Johnson et al., 1986)",NZ_DS499676.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides thetaiotaomicron,"(Distaso, 1912)",NC_004663.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides timonensis,"(Pfleiderer et al., 2013)",none
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides uniformis,"(Eggerth & Gagnon, 1933)",NZ_JH724260.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides vulgatus,"(Eggerth & Gagnon, 1933)",NC_009614.1
+Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides xylanisolvens,"(Chassard et al., 2008)",NC_021017.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Barnesiella intestinihominis,"(Morotomi et al., 2008)",NZ_JH815203.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas synergistica,"(Li et al., 2008)",NZ_KB903359.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas virosa,"(Lagier et al., 2012)",none
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Dysgonomonas gadei,"(Zitomersky et al., 2013)",NZ_GL891979.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Odoribacter laneus,"(Nagai et al., 2009)",NZ_JH594596.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Odoribacter splanchnicus,"(Werner et al., 1975; Hardham et al., 2008)",NC_015160.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides distasonis,"(Eggerth & Gagnon, 1933; Sakamoto & Benno, 2006)",NC_009615.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides goldsteinii,"(Song et al., 2005; Sakamoto & Benno, 2006)",NZ_KE159513.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides gordonii,"(Ley et al., 2006)",KE386763.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides johnsonii,"(Sakamoto et al., 2007)",NZ_JH976465.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides merdae,"(Johnson et al., 1986; Sakamoto & Benno, 2006)",NZ_JH976452.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas asaccharolytica,"(Finegold et al., 1993)",NC_015501.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas endodontalis,"(Walker et al., 2011)",NZ_ACNN01000005.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas gingivalis,"(Bik et al., 2006)",NC_015571.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas somerae,"(Lagier et al., 2012)",NZ_AQVC01000001.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas uenonis,"(Finegold et al., 2004)",NZ_ACLR01000214.1
+Bacteroidetes,Bacteroidales,Porphyromonadaceae,Tannerella forsythia,"(Macfarlane et al., 2004)",NC_016610.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Alloprevotella tannerae,"(Walker et al., 2011)",NZ_GG700642.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella albensis,"(Finegold et al., 1974; Avgustin et al., 1997)",AUFP01000001.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella amniotica,"(Walker et al., 2011)",NZ_KB905276.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella bivia,"(Benno et al., 1989)",NZ_JH660660.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella brevis,"(Holdeman et al., 1976; Avgustin et al., 1997)",none
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella buccae,"(McLaughlin et al., 2010)",NZ_GL586311.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella bryantii,"(Li et al., 2012)",NZ_ADWO01000020.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella conceptionensis,"(Lagier et al., 2012)",CAJK01000376.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella copri,"(Hayashi et al., 2007)",NZ_GG703852.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella corporis,"(Walker et al., 2011)",KE387156.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella denticola,"(Bik et al., 2006)",NC_015311.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella disiens,"(Ramotar et al., 1984)",NZ_AEDO01000037.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella enoeca,"(Woodmansey et al., 2004)",none
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella intermedia,"(Finegold et al., 1974; Shah & Collins, 1990)",NC_017860.1 & NC_017861.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella loescheii,"(Woodmansey et al., 2004)",NZ_KB899214.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella melaninogenica,"(Shah & Collins, 1990; Mitsuoka, 1992)",NC_014370.1 & NC_014371.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella nanceiensis,"(Lagier et al., 2012)",NZ_KB904331.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella nigrescens,"(Macfarlane et al., 2004)",NZ_GL982464.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella oulora,"(Bik et al., 2006)",NZ_JH114215.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella oralis,"(Finegold et al., 1974; Shah & Collins, 1990)",NZ_KE340303.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella pallens,"(Lagier et al., 2012)",NZ_GL982513.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella ruminicola,"(Holdeman et al., 1976; Avgustin et al., 1997)",NC_014033.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella shahii,"(Wang et al., 2005)",none
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella stercorea,"(Hayashi et al., 2007)",NZ_JH379375.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella timonensis,"(Walker et al., 2011)",NZ_ADEF01000044
+Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella veroralis,"(Lagier et al., 2012)",NZ_GG698712.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Paraprevotella clara,"(Morotomi et al., 2009)",NZ_JH376642.1
+Bacteroidetes,Bacteroidales,Prevotellaceae,Paraprevotella xylaniphila,"(Morotomi et al., 2009)",NZ_GL883886.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes finegoldii,"(Rautio et al., 2003)",NC_018011.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes indistinctus,"(Nagai et al., 2009)",NZ_JH370372.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes marseilloanorexicus,"(Pfleiderer et al., 2013)",NZ_CAPH01000006.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes obesi,"(Lagier et al., 2012)",NZ_HE978577.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes onderdonkii,"(Song et al., 2006)",NZ_KB894541.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes putredinis,"(Rautio et al., 2003)",NZ_DS499577.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes senegalensis,"(Lagier et al., 2012)",NZ_HE978647.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes shahii,"(Song et al., 2006)",NC_021030.1
+Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes timonensis,"(Lagier et al., 2012)",HE578880.1
+Bacteroidetes,Cytophagia-Cytophagales,Cytophagaceae,Dyadobacter beijingensis,"(McLaughlin et al., 2010)",NZ_KB907788.1
+Bacteroidetes,Cytophagia-Cytophagales,Cytophagaceae,Dyadobacter fermentans,"(Frank et al., 2007)",NC_013037.1
+Bacteroidetes,Cytophagia-Cytophagales,Cytophagaceae,Hymenobacter rigui,"(Frank et al., 2007)",none
+Bacteroidetes,Cytophagia-Cytophagales,Cytophagaceae,Rudanella lutea,"(Frank et al., 2007)",NZ_KB913013
+Bacteroidetes,Cytophagia-Cytophagales,Cytophagaceae,Spirosoma linguale,"(Frank et al., 2007)",NC_013730.1
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Capnocytophaga granulosa,"(Bik et al., 2006)",NZ_KE150242.1
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Capnocytophaga ochracea,"(Frank et al., 2007)",NC_013162.1
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Capnocytophaga sputigena,"(Lagier et al., 2012)",NZ_ABZV01000006.1
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Chryseobacterium hominis,"(McLaughlin et al., 2010)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Cloacibacterium normanense,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Flavobacterium banpakuense,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Flavobacterium cheniae,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Flavobacterium lindanitolerans,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Flavobacterium oncorhynchi,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Flavobacterium sakaeratica,"(Frank et al., 2007)",none
+Bacteroidetes,Flavobacteriales,Flavobacteriaceae,Wautersiella falsenii,"(Frank et al., 2007)",none
+Bacteroidetes,Sphingobacteriales,Chitinophagaceae,Bifissio spartinae,"(McLaughlin et al., 2010)",none
+Bacteroidetes,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium multivorum,"(Lagier et al., 2012)",none
+Bacteroidetes,Sphingobacteriales,Sphingobacteriaceae,Pedobacter daejeonensis,"(McLaughlin et al., 2010)",none
+Deinococcus-Thermus,Deinococcales,Deinococcaceae,Deinococcus aquaticus,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Halanaerobiales,Halobacteroidaceae,Halanaerobaculum tunisiense ,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Alicyclobacillaceae,Tumebacillus permanentifrigoris,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Aeribacillus pallidus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus altitudinis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus amyloliquefaciens,"(Lagier et al., 2012)",NC_017188.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus arsenicus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus atrophaeus,"(Lagier et al., 2012)",NC_014639.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus badius,"(Batchelor, 1919)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus beijingensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus benzoevorans,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus cereus,"(Batchelor, 1919)",NC_016771.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus circulans,"(Taylor et al., 1985)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus clausii,"(Lagier et al., 2012)",NC_006582.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus endophyticus,"(Lagier et al., 2012)",NZ_ALIM01000035.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus firmus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus flexus,"(Batchelor, 1919)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus fordii,"(Lagier et al., 2012)",NZ_KB894697.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus halodurans,"(Boyer et al., 1973)",NC_002570.2
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus idriensis,"(McLaughlin et al., 2010)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus infantis,"(Lagier et al., 2012)",NC_022524.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus licheniformis,"(Lagier et al., 2012)",NC_006270.3
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus marisflavi,"(Pfleiderer et al., 2013)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus marseilloanorexicus,"(Pfleiderer et al., 2013)",NZ_CAPG01000065.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus massiliosenegalensis,"(Lagier et al., 2012)",NZ_HE978511.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus megaterium,"(Taylor et al., 1985)",NC_014019.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus mojavensis,"(Lagier et al., 2012)",NZ_JH600279.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus mycoides,"(Lagier et al., 2012)",NZ_CM000742.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus nealsonii,"(Lagier et al., 2012)",NZ_ASRU01000045.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus niacini,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus polyfermenticus,"(Pfleiderer et al., 2013)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus pseudofirmus,"(Lagier et al., 2012)",NC_013791.2
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus pumilus,"(Batchelor, 1919)",NC_009848.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus schlegelii,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus senegalensis,"(Pfleiderer et al., 2013)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus simplex,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus siralis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus sonorensis,"(Lagier et al., 2012)",NZ_AOFM01000009.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus subtilis,"(Batchelor, 1919)",NC_000964.3
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus thermoamylovorans,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus thuringiensis,"(Lagier et al., 2012)",NC_005957.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus timonensis,"(Lagier et al., 2012)",NZ_HE610985.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Bacillus vallismortis,"(Lagier et al., 2012)",NZ_JH600242.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Geobacillus stearothermophilus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Geobacillus vulcani,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Oceanobacillus caeni,"(Hoyles et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Oceanobacillus massiliensis,"(Lagier et al., 2012)",NZ_HE610976.1
+Firmicutes,Bacilli-Bacillales,Bacillaceae,Virgibacillus proomii,"(Hoyles et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillales Incertae Sedis XI,Exiguobacterium aurantiacum,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Bacillales Incertae Sedis XI,Gemella haemolysans,"(McLaughlin et al., 2010)",NZ_GL883583.1
+Firmicutes,Bacilli-Bacillales,Bacillales Incertae Sedis XI,Gemella morbillorum,"(Holdeman & Moore, 1974)",NZ_GL622608.1
+Firmicutes,Bacilli-Bacillales,Bacillales Incertae Sedis XI,Gemella sanguinis,"(Lagier et al., 2012)",NZ_ACRY02000001.1
+Firmicutes,Bacilli-Bacillales,Listeriaceae,Brochothrix thermosphacta,"(Walker et al., 2011)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Aneurinibacillus aneurinilyticus,"(Shida et al., 1994; Shida et al., 1996)",NZ_KE952712.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Aneurinibacillus migulanus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Brevibacillus agri,"(Pfleiderer et al., 2013)",NZ_AOBR01000097.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Brevibacillus borstelensis,"(Lagier et al., 2012)",NZ_APBN01000001.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Brevibacillus brevis,"(Taylor et al., 1985; Shida et al., 1996)",NC_012491.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Brevibacillus massiliensis,"(Dubourg et al., 2013)",NZ_HE978535.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus alvei,"(Lagier et al., 2012)",NZ_ATMS01000085.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus antibioticophila,"(Dubourg et al., 2013)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus barcinonensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus barengoltzii,"(Lagier et al., 2012)",NZ_KE159653.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus daejeonensis,"(Lagier et al., 2012)",NZ_KB899659.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus durus,"(Benno et al., 1986; Collins et al., 1994)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus glucanolyticus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus graminis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus illinoisensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus lactis,"(Lagier et al., 2012)",NZ_AGIP01000001.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus lautus,"(Batchelor, 1919; Heyndrickx et al., 1996)",NC_013406.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus provencensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus pueri,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus rhizosphaerae,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus senegalensis,"(Lagier et al., 2012)",NZ_HE610957.1
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus thiaminolyticus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Paenibacillaceae,Paenibacillus timonensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Kurthia gibsonii,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Kurthia massiliensis,"(Lagier et al., 2012)",NZ_HE610996.1
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Kurthia senegalensis,"(Lagier et al., 2012)",NZ_HE611064.1
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Kurthia timonensis,"(Lagier et al., 2012)",HE578957.1
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Lysinibacillus fusiformis,"(Pfleiderer et al., 2013)",NZ_ADJR01000017.1
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Lysinibacillus massiliensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Lysinibacillus sphaericus,"(Taylor et al., 1985; Ahmed et al., 2007)",NC_010382.1
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Planococcus rifietoensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Planomicrobium chinense,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Sporosarcina koreensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Ureibacillus suwonensis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Planococcaceae,Ureibacillus thermosphaericus,"(Lagier et al., 2012)",NZ_AJIK01000021.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus arlettae,"(Lagier et al., 2012)",NZ_ALWK01000057.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus aureus,"(Finegold et al., 1974)",NC_002952.2
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus auricularis,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus capitis,"(Lagier et al., 2012)",NZ_AJTH01000004.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus caprae,"(Pfleiderer et al., 2013)",GG696773.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus cohnii,"(Lagier et al., 2012)",KC820816.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus condimenti,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus epidermidis,"(Moore & Holdeman, 1974)",NC_004461.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus equorum,"(Lagier et al., 2012)",NZ_CAJL01000021.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus haemolyticus,"(Macfarlane et al., 2004)",NC_007168.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus hominis,"(Lagier et al., 2012)",NZ_GL545260.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus intermedius,"(Dubourg et al., 2013)",NZ_CAIB01000056.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus kloosii,"(Macfarlane et al., 2004)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus lugdunensis,"(Lagier et al., 2012)",NC_013893.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus pasteuri,"(Lagier et al., 2012)",NC_022737.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus pettenkoferi,"(Lagier et al., 2012)",NZ_AGUA01000030.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus saccharolyticus,"(Benno et al., 1984)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus saprophyticus,"(Lagier et al., 2012)",NC_007350.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus schleiferi,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus sciuri,"(Lagier et al., 2012)",HG515014.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus simulans,"(Macfarlane et al., 2004)",NZ_KB373327.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus succinus,"(Sathyabama et al., 2012)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus vitulinus,"(Dubourg et al., 2013)",none
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus warneri,"(Macfarlane et al., 2004)",NC_020164.1
+Firmicutes,Bacilli-Bacillales,Staphylococcaceae,Staphylococcus xylosus,"(Lagier et al., 2012)",NZ_ANMR01000043.1
+Firmicutes,Bacilli-Lactobacillales,Aerococcaceae,Abiotrophia defectiva,"(Lagier et al., 2012)",NZ_KI535342.1
+Firmicutes,Bacilli-Lactobacillales,Aerococcaceae,Abiotrophia para-adiacens,"(Bik et al., 2006)",none
+Firmicutes,Bacilli-Lactobacillales,Aerococcaceae,Aerococcus viridans,"(Lagier et al., 2012)",NZ_AJTG01000006.1
+Firmicutes,Bacilli-Lactobacillales,Aerococcaceae,Facklamia tabacinasalis,"(Pfleiderer et al., 2013)",none
+Firmicutes,Bacilli-Lactobacillales,Carnobacteriaceae,Granulicatella adiacens,"(Lagier et al., 2012)",GG694015.1
+Firmicutes,Bacilli-Lactobacillales,Carnobacteriaceae,Granulicatella elegans,"(Walker et al., 2011)",NZ_KI391971.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus asini,"(Lagier et al., 2012)",ASVU01000001.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus avium,"(Littel & Hartman, 1983)",NZ_KE136362.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus caccae,"(Carvalho et al., 2006)",NZ_KB946332.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus casseliflavus,"(Gelsomino et al., 2003)",NC_020995.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus cecorum,"(Lagier et al., 2012)",NZ_KI535313.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus dispar,"(Lagier et al., 2012)",NZ_KE136354.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus durans,"(Alston, 1928)",NZ_KE136512.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus faecalis,"(Andrewes & Horder, 1906)",NC_004668.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus faecium,"(Finegold et al., 1974)",NC_017960.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus gallinarum,"(Collins et al., 1984)",GG670289.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus hirae,"(Robredo et al., 2000)",NC_018081.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus phoeniculicola,"(Lagier et al., 2012)",NZ_KB946327.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus pseudoavium,"(Woodmansey et al., 2004)",none
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Enterococcus saccharolyticus,"(Pfleiderer et al., 2013)",NZ_KE136523.1
+Firmicutes,Bacilli-Lactobacillales,Enterococcaceae,Tetragenococcus solitarius,"(Woodmansey et al., 2004)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus acidophilus,"(Moro, 1900)",NC_015214.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus alimentarius,"(Macfarlane et al., 2004)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus amylovorus,"(Mitsuoka, 1969)",NC_017470.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus animalis,"(Macfarlane et al., 2004)",NZ_GL573157.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus antri,"(Mitsuoka, 1969)",NZ_GG700733.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus brevis,"(Benno et al., 1989)",NC_008497.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus buchneri,"(Mitsuoka et al., 1975)",NC_015428.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus casei,"(Moore & Holdeman, 1974)",NC_008526.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus coleohominis,"(Li et al., 2012)",GG698802.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus coryniformis,"(Woodmansey et al., 2004)",NZ_GL544629.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus crispatus,"(Finegold et al., 1977)",NC_014106.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus curvatus,"(Woodmansey et al., 2004)",NZ_AGBU01000002.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus delbrueckii,"(Finegold et al., 1974)",NC_008529.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus fermentum,"(Moore & Holdeman, 1974)",NC_017465.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus gasseri,"(Benno et al., 1989)",NC_008530.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus gastricus,"(Roos et al., 2005)",NZ_AICN01000049.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus helveticus,"(Finegold et al., 1977)",NC_018528.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus iners,"(McLaughlin et al., 2010)",NZ_GL622333.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus jensenii,"(Carlsson & Gothefors, 1975)",NZ_GL545251.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus johnsonii,"(Reuter, 2001)",NC_013504.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus kalixensis,"(Roos et al., 2005)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus leichmanii,"(Moore & Holdeman, 1974)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus mucosae,"(Decroos et al., 2005)",NZ_AHIT01000012.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus oris,"(Reuter, 2001)",NZ_AEKL01000060.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus parabuchneri,"(Dal Bello & Hertel, 2006)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus paracasei,"(Dal Bello & Hertel, 2006)",NC_022112.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus pentosus,"(Dal Bello & Hertel, 2006)",NZ_CM001538.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus plantarum,"(Finegold et al., 1974)",NC_014554.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus reuteri,"(Benno et al., 1989)",NC_010609.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus rhamnosus,"(Dal Bello & Hertel, 2006)",NC_013198.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus ruminis,"(Lerche & Reuter, 1961)",NC_015975.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus sakei,"(Dal Bello & Hertel, 2006)",NC_007576.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus salivarius,"(Moore & Holdeman, 1974)",NC_007929.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus saniviri,"(Oki et al., 2012)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus senioris,"(Oki et al., 2012)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus sharpeae,"(Woodmansey et al., 2004)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus ultunensis,"(Roos et al., 2005)",NZ_GG693253.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Lactobacillus vaginalis,"(Dal Bello & Hertel, 2006)",NZ_GG693412.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Pediococcus acidilactici,"(Barros et al., 2001)",NZ_GL397067.1
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Pediococcus damnosus,"(Pfleiderer et al., 2013)",none
+Firmicutes,Bacilli-Lactobacillales,Lactobacillaceae,Pediococcus pentosaceus,"(Dal Bello & Hertel, 2006)",NC_022780.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Leuconostoc argentinium/lactis,"(Heilig et al., 2002)",NZ_AEGQ01000026.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Leuconostoc gelidum,"(Lagier et al., 2012)",NC_018631.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Leuconostoc mesenteroides,"(Dal Bello & Hertel, 2006)",NC_016805.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Weissella cibaria,"(Bjorkroth et al., 2002)",NZ_AEKT01000020.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Weissella confusa,"(Bjorkroth et al., 2002)",NZ_CAGH01000001.1
+Firmicutes,Bacilli-Lactobacillales,Leuconostocaceae,Weissella paramesenteroides,"(Lagier et al., 2012)",NZ_GG697129.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Lactococcus garvieae,"(Lagier et al., 2012)",NC_015930.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Lactococcus lactis,"(Finegold et al., 1974)",NC_002662.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Lactococcus plantarum,"(Woodmansey et al., 2004)",none
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Lactococcus raffinolactis,"(Dubourg et al., 2013)",CALL01000040.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus agalactiae,"(Finegold et al., 1974)",NC_021195.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus alactolyticus,"(Lagier et al., 2012)",none
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus anginosus,"(Whiley et al., 1992)",NC_022239.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus australis,"(Lagier et al., 2012)",NZ_GL636091.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus bovis,"(Finegold et al., 1974)",NZ_GL397128.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus constellatus,"(Holdeman & Moore, 1974)",NC_022238.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus cristatus,"(Bik et al., 2006)",NZ_GL732518.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus dysgalactiae,"(Finegold et al., 1974)",NC_022532.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus equi,"(Finegold et al., 1974)",NC_011134.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus equinus,"(Finegold et al., 1974)",NZ_GL698429.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus gallolyticus,"(Li et al., 2012)",NC_013798.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus gordonii,"(Lagier et al., 2012)",NC_009785.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus infantarius,"(Schlegel et al., 2000)",NC_016826.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus infantis,"(Lagier et al., 2012)",NZ_GL732439.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus intermedius,"(Holdeman & Moore, 1974)",NC_018073.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus lutetiensis,"(Schlegel et al., 2000; Poyart et al., 2002)",NC_021900.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus mitis,"(Finegold et al., 1974)",NC_013853.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus mutans,"(Finegold et al., 1977)",NC_004350.2
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus oralis,"(Baker et al., 2000)",NC_015291.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus parasanguinis,"(Whiley et al., 1990)",NC_017905.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus parauberis,"(Dubourg et al., 2013)",NC_015558.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus peroris,"(Lagier et al., 2012)",NZ_GL732463.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus pneumoniae,"(Lagier et al., 2012)",NC_008533.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus pseudopneumoniae,"(Lagier et al., 2012)",NC_015875.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus pyogenes,"(Finegold et al., 1974)",NC_003485.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus salivarius,"(Moore & Holdeman, 1974)",NC_017594.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus sanguinis,"(Finegold et al., 1974)",NC_009009.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus thermophilus,"(Finegold et al., 1974)",NC_006449.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus thoraltensis,"(Lagier et al., 2012)",NZ_KB904586  
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus uberis,"(Finegold et al., 1974)",NC_012004.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus vestibularis,"(Lagier et al., 2012)",NZ_GL831112.1
+Firmicutes,Bacilli-Lactobacillales,Streptococcaceae,Streptococcus viridans,"(Drasar & Hill, 1974)",none
+Firmicutes,Clostridia-Clostridiales,Christensenellaceae,Christensenella minuta,"(Morotomi et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales,Christensenellaceae,Catabacter hongkongensis,"(Lau et al., 2007; Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium acetobutylicum,"(Taylor et al., 1985)",NC_003030.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium anorexicamassiliense,"(Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium baratii,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium beijerinckii,"(Finegold et al., 1977)",NC_009617.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium botulinum,"(Finegold et al., 1974)",NC_009495.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium butyricum,"(Finegold et al., 1974)",NZ_ACOM01000005.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium cadaveris,"(Mitsuoka, 1992)",AUJL01000001.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium celatum,"(Hauschild & Holdeman, 1974)",NZ_KB291644.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium chartatabidum,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium chauvoei,"(Pfleiderer et al., 2013)",NZ_CBML010000006.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium cochlearium,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium disporicum,"(Ley et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium fallax,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium felsineum,"(Drasar & Hill, 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium limosum,"(Eggerth, 1935)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium malenominatum,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium neonatale,"(Li et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium paraputrificum,"(Finegold et al., 1974)",AUJC01000001.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium perfringens,"(Passini, 1905)",NC_003366.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium putrefaciens,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium saccharoperbutylacetonicum,"(Pfleiderer et al., 2013)",NC_020291.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium sardiniense,"(Woodmansey et al., 2004)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium sartagoforme,"(Finegold et al., 1974)",NZ_ASRV01000127.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium senegalense,"(Lagier et al., 2012)",NZ_HE611050.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium septicum,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium sporogenes,"(Mitsuoka, 1992)",NZ_DS981517.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium subterminale,"(Taylor et al., 1985)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium tertium,"(Benno et al., 1989)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium tyrobutyricum,"(Taylor et al., 1985)",NZ_ARYO01000149.1
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Clostridium vincentii,"(Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Eubacterium budayi,"(Finegold et al., 1977)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Eubacterium moniliforme,"(Distaso, 1911)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Eubacterium multiforme,"(Distaso, 1911)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Eubacterium nitritogenes,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Sarcina maxima,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales I,Clostridiaceae,Sarcina ventriculi,"(Finegold et al., 1977)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Acetanaerobacterium elongatum,"(de Goffau et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Anaerofilum pentosovorans,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Anaerotruncus colihominis,"(Lawson et al., 2004)",NZ_DS544185.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Butyricicoccus pullicaecorum,"(Eeckhaut et al., 2012)",NZ_KB976104.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium anorexicus (Intestinimonas butyriciproducens),"(Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium cellobioparum,"(Benno et al., 1989)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium clariflavum," (Peris-Bondia et al., 2011)",NC_016627.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium leptum,"(Moore et al., 1976)",NZ_DS480349.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium methylpentosum,"(Himelbloom & Canale-Parola, 1989)",NZ_EQ973344.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium sporosphaeroides,"(Moore & Holdeman, 1974)",NZ_KB911066.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Clostridium viride,"(Zupancic et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Eubacterium desmolans,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Eubacterium siraeum,"(Moore et al., 1976)",NC_021011.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Faecalibacterium prausnitzii,"(Moore & Holdeman, 1974; Duncan et al., 2002)",NC_021042.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Flavonifractor plautii,"(Winter et al., 1991; Carlier et al., 2010)",NZ_JH417810.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Gemmiger formicilis,"(Holdeman et al., 1976)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Hydrogenoanaerobacterium saccharovorans,"(Peris-Bondia et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Oscillibacter valericigenes,"(Lagier et al., 2012)",NC_016048.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Papillibacter cinnamivorans,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Pseudoflavonifractor capillosus,"(Moore & Holdeman, 1974; Carlier et al., 2010)",AAXG02000010.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Ruminococcus albus,"(Moore & Holdeman, 1974)",NC_014833.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Ruminococcus bromii,"(Moore et al., 1972)",NC_021013.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Ruminococcus callidus,"(Holdeman & Moore, 1974)",KI260449.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Ruminococcus champanellensis,"(Chassard et al., 2011)",NC_021039.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Ruminococcus flavefaciens,"(Finegold et al., 1974)",NZ_ACOK01000119.1
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Soleaferrea massiliensis,"(Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales IV,Ruminococcaceae,Subdoligranulum variabile,"(Holmstrom et al., 2004)",NZ_GG704769.1
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Eubacterium brachy,"(Woodmansey et al., 2004)",NZ_KI535286.1
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Eubacterium saphenum,"(Bik et al., 2006; Gill et al., 2006)",NZ_GG688422.1
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Eubacterium sulci,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Mogibacterium diversum,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Mogibacterium neglectum,"(Bik et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Mogibacterium timidum,"(Woodmansey et al., 2004)",none
+Firmicutes,Clostridia-Clostridiales XI,Family XIII Incertae Sedis,Mogibacterium vescum,"(Wang et al., 2005)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Anoxynatronum sibiricum,"(Peris-Bondia et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium difficile,"(Finegold et al., 1974)",NC_009089.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium bartlettii,"(Song et al., 2004)",NZ_DS499566.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium bifermentans,"(Finegold et al., 1974)",NZ_AVNC01000015.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium ghonii,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium glycolicum,"(Finegold et al., 1974)",NZ_KB892610  
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium hiranonis,"(Kitahara et al., 2001)",NZ_DS995356.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium irregulare,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium lituseburense,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium sordellii,"(Finegold et al., 1974)",NZ_APWR01000092.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Clostridium sticklandii,"(Benno et al., 1986)",NC_014614.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Eubacterium tenue,"(Distaso, 1911)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Filifactor alocis,"(Woodmansey et al., 2004)",NC_016630.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Filifactor villosus,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Peptostreptococcus anaerobius,"(Benno et al., 1989)",NZ_ADJN01000015.1
+Firmicutes,Clostridia-Clostridiales XIb,Peptostreptococcaceae,Peptostreptococcus stomatis,"(Lagier et al., 2012)",NZ_ADGQ01000060.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus hydrogenalis,"(Ezaki et al., 1990; Ezaki et al., 1994)",NZ_AEXN01000032.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus obesiensis,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus octavius,"(Dubourg et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus prevotii,"(Finegold et al., 1974; Ezaki et al., 2001)",NC_013171.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus senegalensis,"(Lagier et al., 2012)",JF824805.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Anaerococcus vaginalis,"(Mangin et al., 2004; Eckburg et al., 2005)",GG700527.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Bacteroides coagulans,"(Eggerth & Gagnon, 1933)",none
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Finegoldia magna,"(Finegold et al., 1974; Murdoch & Shah, 1999)",NC_010376.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Kallipyga massiliensis,"(Lagier et al., 2012)",CAHC01000003.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Parvimonas micra,"(Finegold et al., 1974)",NZ_DS483518.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus asaccharolyticus,"(Distaso, 1912; Ezaki et al., 2001)",none
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus grossensis,"(Lagier et al., 2012)",HE978566.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus harei,"(Lagier et al., 2012)",NZ_AENP01000004.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus indolicus,"(Benno et al., 1984; Ezaki et al., 2001)",NZ_JH165061.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus lacrimalis,"(Walker et al., 2011)",NZ_KB900367.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus obesiensis,"(Lagier et al., 2012)",CAHB01000001.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus senegalensis,"(Lagier et al., 2012)",NZ_HE610717.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Peptoniphilus timonensis,"(Lagier et al., 2012)",HE978593.1
+Firmicutes,Clostridia-Clostridiales XIII,Family XI Incertae Sedis,Tissierella praeacuta,"(Tissier, 1900; Collins & Shah, 1986)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anaerostipes butyraticus,"(Ley et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anaerostipes caccae,"(Schwiertz et al., 2002)",NZ_DS499733.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anaerostipes coli,"(Muñoz-Tamayo et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anaerostipes rhamnosus,Nam Bui UNPUB,none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anaerostipes hadrus,"(Moore et al., 1976; Allen-Vercoe et al., 2012)",NZ_KB290637.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anoxystipes contortum,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anoxystipes fissicatena,"(Ley et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Anoxystipes oroticum,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Bacteroides pectinophilus,"(Jensen & Canale-Parola, 1986)",NZ_DS996921.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia coccoides,"(Benno et al., 1986; Liu et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia faecis,"(Park et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia glucerasea,"(Ley et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia hansenii,"(Liu et al., 2008)",NZ_GG698588.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia hydrogenotrophica,"(Bernalier et al., 1996; Liu et al., 2008)",NZ_GG657679.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia luti,"(Simmering et al., 2002; Liu et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia (Ruminococcus) massiliensis,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia (Ruminococcus) obeum,"(Moore et al., 1976; Liu et al., 2008)",NZ_DS264338.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia producta,"(Moore & Holdeman, 1974; Ezaki et al., 1994; Liu et al., 2008)",NZ_KB892682.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia stercoris,"(Park et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Blautia wexlerae,"(Liu et al., 2008)",AXVN01000001.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Butyrivibrio crossotus,"(Moore et al., 1976)",ABWN01000017.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Butyrivibrio fibrisolvens,"(Brown & Moore, 1960)",NZ_ATVY01000027.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Cellulosilyticum lentocellum,"(Li et al., 2008)",NC_015275.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium aminovalericum,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium aldenense,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium asparagiforme,"(Mohan et al., 2006)",NZ_GG657592.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium bolteae,"(Song et al., 2003)",NZ_DS480698.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium citroniae,"(Lagier et al., 2012)",NZ_JH376420.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium clostridioforme,"(Kaneuchi et al., 1976)",NZ_KB850966.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium glycyrrhizinilyticum,"(Sakuma et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium hathewayi,"(Steer et al., 2001)",NZ_JH379027.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium herbivorans,"(Nam et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium hylemonae,"(Kitahara et al., 2000)",NZ_GG657759.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium indolis,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium lactatifermentans,"(Song et al., 2002)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium lavalense,"(Domingo et al., 2009)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium methoxybenzovorans,"(Ott et al., 2004)",ATXD01000006.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium nexile,"(Holdeman & Moore, 1974)",NZ_DS995339.4
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium populeti,"(Nam et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium scindens,"(Kitahara et al., 2000)",NZ_DS499697.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium sphenoides,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Clostridium symbiosum,"(Kaneuchi et al., 1976)",NZ_GL834358.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Coprococcus catus,"(Holdeman & Moore, 1974)",NC_021009.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Coprococcus comes,"(Holdeman & Moore, 1974)",NZ_GG662007.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Coprococcus eutactus,"(Holdeman & Moore, 1974)",DS483532.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Dorea formicigenerans,"(Holdeman & Moore, 1974; Taras et al., 2002)",NZ_AAXA02000015.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Dorea longicatena,"(Taras et al., 2002)",NZ_DS264392.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Dorea massiliensis,"(Pfleiderer et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium cellulosolvens,"(Finegold et al., 1977)",NZ_CM001487.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium eligens,"(Holdeman & Moore, 1974)",NC_012778.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium hallii,"(Holdeman & Moore, 1974)",NZ_ACEP01000029.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium ramulus,"(Moore et al., 1976)",NZ_KI271092.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium rectale,"(Moore & Holdeman, 1974)",NC_012781.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium ruminantium,"(Moore & Holdeman, 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Eubacterium ventriosum,"(Eggerth, 1935)",NZ_DS264270.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Fusicatenibacter saccharivorans,"(Takada et al., 2013)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Hespellia porcina,"(Peris-Bondia et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Hespellia stercorisuis,"(Peris-Bondia et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Howardella ureilytica,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lachnoanaerobaculum saburreum,"(Palmer et al., 2007; Hedberg et al., 2012)",NZ_AJGH01000103.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lachnoanaerobaculum umeaense,"(Hedberg et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Bacteroides galacturonicus,"(Jensen & Canale-Parola, 1986)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lachnospira pectinoschiza,"(Wilson & Blitchington, 1996)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lactobacillus rogosae,"(Holdeman & Moore, 1974)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lactonifactor longoviformis,"(Clavel et al., 2007)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Lachnobacterium bovis," (Lagier et al., 2012)",NZ_ATWB01000003.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Marvinbryantia formatexigens,"(Wolin et al., 2003; Wolin et al., 2008)",ACCL02000005.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Moryella indoligenes,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Oribacterium sinus,"(Lagier et al., 2012)",NZ_GG668534.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Parasporobacterium paucivorans,"(Nam et al., 2008)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Robinsoniella peoriensis,"(Gomez et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Roseburia faecis,"(Duncan et al., 2006)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Roseburia hominis,"(Duncan et al., 2006)",NC_015977.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Roseburia intestinalis,"(Duncan et al., 2002)",NC_021040.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Roseburia inulinivorans,"(Duncan et al., 2006)",NZ_HF990107.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Ruminococcus gauvreauii,"(Domingo et al., 2008)",AUDP01000001.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Ruminococcus gnavus,"(Moore et al., 1976)",NZ_AAYG02000009.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Ruminococcus faecis,"(Kim et al., 2011)",none
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Ruminococcus lactaris,"(Moore et al., 1976)",NZ_DS990191.1
+Firmicutes,Clostridia-Clostridiales XIVa,Lachnospiraceae,Ruminococcus torques,"(Holdeman & Moore, 1974)",NZ_DS264345.1
+Firmicutes,Clostridia-Clostridiales XV,Eubacteriaceae,Anaerofustis stercorihominis,"(Finegold et al., 2004)",NZ_DS560019.1
+Firmicutes,Clostridia-Clostridiales XV,Eubacteriaceae,Eubacterium barkeri,"(Finegold et al., 1974)",none
+Firmicutes,Clostridia-Clostridiales XV,Eubacteriaceae,Eubacterium callanderi,"(Lagier et al., 2012)",none
+Firmicutes,Clostridia-Clostridiales XV,Eubacteriaceae,Eubacterium limosum,"(Moore & Holdeman, 1974)",NC_014624.2
+,,,,,
+Firmicutes,Clostridia-Clostridiales XV,Eubacteriaceae,Pseudoramibacter alactolyticus,"(Benno et al., 1986; Willems & Collins, 1996)",NZ_GL622359.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales,Erysipelotrichaceae,Turicibacter sanguinis,"(Cuív et al., 2011)",NZ_ADMN01000030.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Clostridium innocuum,"(Finegold et al., 1974)",NZ_KB850943.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Eubacterium biforme,"(Holdeman & Moore, 1974)",NZ_DS996841.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Eubacterium cylindroides,"(Cato et al., 1974)",NC_021019.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Eubacterium dolichum,"(Woodmansey et al., 2004)",DS483477.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Eubacterium tortuosum,"(Eggerth, 1935)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Dielma fastidiosa,"(Lagier et al., 2012)",HE578923.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVI,Erysipelotrichaceae XVI,Streptococcus pleomorphus,"(Ley et al., 2006)",NZ_ATUT01000001.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVII,Erysipelotrichaceae XVII,Catenibacterium mitsuokai,"(Kageyama & Benno, 2000)",NZ_ACCK01000411.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVII,Erysipelotrichaceae XVII,Coprobacillus cateniformis,"(Kageyama & Benno, 2000)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVII,Erysipelotrichaceae XVII,Eggerthia catenaformis,"(Eggerth, 1935; Salvetti et al., 2011)",AUGJ01000001.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVII,Erysipelotrichaceae XVII,Kandleria vitulina,"(Mitsuoka, 1992; Salvetti et al., 2011)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVII,Erysipelotrichaceae XVII,Stoquefichus massiliensis,"(Pfleiderer et al., 2013)",HG005284.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Anaerorhabdus furcosa,"(Moore & Holdeman, 1974; Shah & Collins, 1986)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Bulleidia extructa,"(Lagier et al., 2012)",NZ_ADFR01000002.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Clostridium cocleatum,"(Kaneuchi, 1979)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Clostridium ramosum,"(Moore & Holdeman, 1974)",NZ_DS499659.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Clostridium saccharogumia,"(Clavel et al., 2007)",none
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Clostridium spiroforme,"(Kaneuchi, 1979)",NZ_DS562854.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Holdemania filiformis,"(Willems et al., 1998)",GG657561.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Holdemania massiliensis,"(Pfleiderer et al., 2013)",HE998567.1
+Firmicutes,Erysipelotrichi-Erysipelotrichales XVIII,Erysipelotrichaceae XVIII,Solobacterium moorei,"(Kageyama & Benno, 2000)",GL637665.1
+Firmicutes,Negativicutes-Selenomonadales IX,Acidiaminococcaceae,Acidaminococcus fermentans,"(Moore & Holdeman, 1974)",NC_013740.1
+Firmicutes,Negativicutes-Selenomonadales IX,Acidiaminococcaceae,Acidaminococcus intestini,"(Jumas-Bilak et al., 2007)",NC_016077.1
+Firmicutes,Negativicutes-Selenomonadales IX,Acidiaminococcaceae,Phascolarctobacterium faecium,"(Hayashi et al., 2002)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Acidiaminococcaceae,Phascolarctobacterium succinatutens,"(Watanabe et al., 2011)",AEVN01000118.1
+Firmicutes,Negativicutes-Selenomonadales IX,Peptococcaceae,Peptococcus niger,"(Van Eldere et al., 1987)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Peptococcaceae,Desulfitobacterium frappieri,"(van de Pas et al., 2001)",NC_007907.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Allisonella histaminiformans,"(Hayashi et al., 2002)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Dialister invisus,"(Lin et al., 2013)",NZ_GG698602.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Dialister pneumosintes,"(Finegold et al., 1974)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Dialister succinatiphilus,"(Morotomi et al., 2008)",NZ_JH591187.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Megamonas funiformis,"(Sakon et al., 2008)",NZ_JH601090.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Megamonas hypermegale,"(Moore & Holdeman, 1974; Shah & Collins, 1982)",NC_021041.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Megasphaera elsdenii,"(Finegold et al., 1974)",NC_015873.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Mitsuokella jalaludinii,"(Ley et al., 2006)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Mitsuokella multacida,"(Mitsuoka et al., 1974; Shah & Collins, 1982)",NZ_GG697141.2
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Negativicoccus succinicivorans,"(Lagier et al., 2012)",none
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Selenomonas ruminantium,"(Benno et al., 1986)",NC_017068.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Veillonella atypica,"(Dal Bello & Hertel, 2006)",AEDS01000049.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Veillonella dispar,"(Dal Bello & Hertel, 2006)",NZ_GG667604.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Veillonella parvula,"(Veillon & Zuber, 1898)",NC_013520.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Veillonella ratti,"(McLaughlin et al., 2010)",NZ_JH992936.1
+Firmicutes,Negativicutes-Selenomonadales IX,Veillonellaceae,Veillonella rogosae,"(Pfleiderer et al., 2013)",none
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Cetobacterium somerae,"(Finegold et al., 2003)",NZ_KI518200.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Clostridium rectum,"(Benno et al., 1984)",none
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium gonidiaformans,"(Finegold et al., 1974)",GG657972.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium mortiferum,"(Moore & Holdeman, 1974)",NZ_GL987988.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium naviforme,"(Holdeman et al., 1976)",none
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium necrogenes,"(Finegold et al., 1974)",none
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium necrophorum,"(Finegold et al., 1974)",NZ_JH590846.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium nucleatum,"(Holdeman et al., 1976)",NZ_ADEE02000002.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium periodonticum,"(Wang et al., 2005)",NZ_GG665898.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium russii,"(Moore & Holdeman, 1974)",NZ_KB906906.1
+Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium varium,"(Benno et al., 1989)",NZ_GL987995.1
+Fusobacteria,Fusobacteriales,Leptotrichiaceae,Leptotrichia amnionii,"(Bik et al., 2006; Gill et al., 2006)",none
+Fusobacteria,Fusobacteriales,Leptotrichiaceae,Leptotrichia buccalis,"(Drasar & Hill, 1974)",NC_013192.1
+Lentisphaerae,Victivallales,Victivallaceae,Victivallis vadensis,"(Zoetendal et al., 2003)",none
+Planctomycetes,Planctomycetales,Planctomycetaceae,Schlesneria paludicola,"(Lagier et al., 2012)",NZ_JH636434.1
+Proteobacteria,Alpha-Caulobacterales,Caulobacteraceae,Brevundimonas bacteroides,"(Bik et al., 2006)",none
+Proteobacteria,Alpha-Caulobacterales,Caulobacteraceae,Brevundimonas diminuta,"(Walker et al., 2011)",NZ_GL883086.1
+Proteobacteria,Alpha-Caulobacterales,Caulobacteraceae,Brevundimonas terrae,"(Ley et al., 2006)",none
+Proteobacteria,Alpha-Caulobacterales,Caulobacteraceae,Brevundimonas vesicularis,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Caulobacterales,Caulobacteraceae,Phenylobacterium haematophilum,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhizobiales,Aurantimonadaceae,Aurantimonas altamirensis,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium denitrificans,"(Bik et al., 2006)",none
+Proteobacteria,Alpha-Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium elkanii,"(Walker et al., 2011)",NZ_KB900701.1
+Proteobacteria,Alpha-Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium japonicum,"(Lepage et al., 2011)",NC_004463.1
+Proteobacteria,Alpha-Rhizobiales,Bradyrhizobiaceae,Afipia birgiae,"(McLaughlin et al., 2010)",NZ_CAJQ01000040.1
+Proteobacteria,Alpha-Rhizobiales,Brucellaceae,Ochrobactrum anthropi,"(Holmes et al., 1988)",NC_009667.1 & NC_009668.1
+Proteobacteria,Alpha-Rhizobiales,Brucellaceae,Ochrobactrum intermedium,"(Müller et al., 1999)",NZ_ACQA01000001.1
+Proteobacteria,Alpha-Rhizobiales,Hyphomicrobiaceae,Pedomicrobium ferrugineum,"(Bik et al., 2006)",none
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium adhaesivum,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium jeotgali,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium mesophilicum,"(Walker et al., 2011)",ANPA01000003.1
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium populi,"(Turnbaugh et al., 2009)",NC_010725.1
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium radiotolerans,"(Lagier et al., 2012)",NC_010505.1
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Methylobacterium zatmanii,"(Dubourg et al., 2013)",none
+Proteobacteria,Alpha-Rhizobiales,Methylobacteriaceae,Microvirga massiliensis,"(Lagier et al., 2012)",CAHM01000189.1
+Proteobacteria,Alpha-Rhizobiales,Phyllobacteriaceae,Mesorhizobium loti,"(McLaughlin et al., 2010)",NC_002678.2
+Proteobacteria,Alpha-Rhizobiales,Phyllobacteriaceae,Phyllobacterium myrsinacearum,"(Mai et al., 2013)",none
+Proteobacteria,Alpha-Rhizobiales,Rhizobiaceae,Agrobacterium tumefaciens,"(Walker et al., 2011)",NC_011985.1 & NC_011983.1
+Proteobacteria,Alpha-Rhizobiales,Xanthobacteraceae,Ancylobacter polymorphus,"(Lagier et al., 2012)",none
+Proteobacteria,Alpha-Rhodobacterales,Rhodobacteraceae,Paracoccus carotinifaciens,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhodobacterales,Rhodobacteraceae,Paracoccus marinus,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhodobacterales,Rhodobacteraceae,Paracoccus yeei,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhodobacterales,Rhodobacteraceae,Amaricoccus kaplicensis,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhodospirillales,Acetobacteraceae,Roseomonas mucosa,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Rhodospirillales,Rhodospirillaceae,Skermanella aerolata,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Sphingomonadales,Sphingomonadaceae,Blastomonas natatoria,"(Dubourg et al., 2013)",none
+Proteobacteria,Alpha-Sphingomonadales,Sphingomonadaceae,Sphingomonas panni,"(Ley et al., 2006)",none
+Proteobacteria,Alpha-Sphingomonadales,Sphingomonadaceae,Sphingomonas pseudosanguinis,"(Lagier et al., 2012)",none
+Proteobacteria,Alpha-Sphingomonadales,Sphingomonadaceae,Sphingomonas paucimobilis,"(McLaughlin et al., 2010)",none
+Proteobacteria,Alpha-Sphingomonadales,Sphingomonadaceae,Sphingomonas adhaesiva,"(McLaughlin et al., 2010)",none
+Proteobacteria,Beta-Burkholderiales,Alcaligenaceae,Achromobacter denitrificans,"(Finegold et al., 1974)",none
+Proteobacteria,Beta-Burkholderiales,Alcaligenaceae,Achromobacter xylosoxidans,"(Lagier et al., 2012)",NC_014640.1
+Proteobacteria,Beta-Burkholderiales,Alcaligenaceae,Alcaligenes faecalis,"(Petruschky, 1896)",NZ_AKMR01000001.1
+Proteobacteria,Beta-Burkholderiales,Alcaligenaceae,Bordetella hinzii,"(Walker et al., 2011)",AWNM01000006.1
+Proteobacteria,Beta-Burkholderiales,Alcaligenaceae,Kerstersia gyiorum,"(Coenye et al., 2003)",none
+Proteobacteria,Beta-Burkholderiales,Burkholderiaceae,Burkholderia cepacia,"(Wang et al., 2003)",NC_018513.1 & NC_018514.1
+Proteobacteria,Beta-Burkholderiales,Burkholderiaceae,Cupriavidus metallidurans,"(McLaughlin et al., 2010)",NC_007973.1
+Proteobacteria,Beta-Burkholderiales,Burkholderiaceae,Lautropia mirabilis,"(Bik et al., 2006)",NZ_GL636062.1
+Proteobacteria,Beta-Burkholderiales,Burkholderiaceae,Limnobacter thiooxidans,"(McLaughlin et al., 2010)",none
+Proteobacteria,Beta-Burkholderiales,Burkholderiaceae,Ralstonia mannitolilytica,"(Zoetendal et al., 2002)",none
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Acidovorax facilis,"(McLaughlin et al., 2010)",none
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Aquabacterium commune,"(Wang et al., 2003)",none
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Comamonas kerstersii,"(Lagier et al., 2012)",none
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Comamonas testosteroni,"(McLaughlin et al., 2010)",NC_013446.1
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Delftia acidovorans,"(Bik et al., 2006)",NC_010002.1
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Pelomonas saccharophila,"(Pfleiderer et al., 2013)",none
+Proteobacteria,Beta-Burkholderiales,Comamonadaceae,Variovorax boronicumulans,"(McLaughlin et al., 2010)",none
+Proteobacteria,Beta-Burkholderiales,Oxalobacteraceae,Herbaspirillum massiliense,"(Lagier et al., 2012)",HE978634.1
+Proteobacteria,Beta-Burkholderiales,Oxalobacteraceae,Massilia aurea,"(McLaughlin et al., 2010)",none
+Proteobacteria,Beta-Burkholderiales,Oxalobacteraceae,Oxalobacter formigenes,"(Allison et al., 1985)",NZ_GG658170.1
+Proteobacteria,Beta-Burkholderiales,Suterellaceae,Parasutterella excrementihominis,"(Nagai et al., 2009)",NZ_GL883760.1
+Proteobacteria,Beta-Burkholderiales,Suterellaceae,Parasutterella secunda,"(Morotomi et al., 2011)",none
+Proteobacteria,Beta-Burkholderiales,Suterellaceae,Sutterella parvirubra,"(Sakon et al., 2008; Williams et al., 2012)",NZ_JH605003.1
+Proteobacteria,Beta-Burkholderiales,Suterellaceae,Sutterella stercoricanis,"(Williams et al., 2012)",none
+Proteobacteria,Beta-Burkholderiales,Suterellaceae,Sutterella wadsworthensis,"(Wexler et al., 1996)",NZ_KE150480.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Eikenella corrodens,"(Hansen et al., 2013)",NZ_EQ973317.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Laribacter hongkongensis,"(Lau et al., 2003)",NC_012559.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Kingella oralis,"(Bik et al., 2006)",NZ_GG665871.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria cinerea,"(Lagier et al., 2012)",NZ_ACDY02000002.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria elongata,"(Bik et al., 2006)",NZ_ADBF01000042.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria flava,"(Bik et al., 2006)",none
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria flavescens,"(Lagier et al., 2012)",NZ_ACQV01000024.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria macacae,"(Lagier et al., 2012)",NZ_GL985618.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria mucosa,"(Lagier et al., 2012)",NZ_GL635793.1
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria perflava,"(Lagier et al., 2012)",none
+Proteobacteria,Beta-Neisseriales,Neisseriaceae,Neisseria subflava,"(Lagier et al., 2012)",NZ_ACEO02000001.1
+Proteobacteria,Beta-Rhodocyclales,Rhodocyclaceae,Methyloversatilis universalis,"(McLaughlin et al., 2010)",NZ_KB900539.1
+Proteobacteria,Delta-Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio desulfuricans,"(Gibson et al., 1991)",NC_011883.1
+Proteobacteria,Delta-Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio fairfieldensis,"(Loubinoux et al., 2002)",none
+Proteobacteria,Delta-Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio piger,"(Moore et al., 1976)",NZ_DS996359.1
+Proteobacteria,Delta-Desulfovibrionales,Desulfovibrionaceae,Bilophila wadsworthia,"(Baron, 1997)",NZ_KE150238.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Arcobacter butzleri,"(Engberg et al., 2000)",none
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Arcobacter cryaerophilus,"(Engberg et al., 2000)",none
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Bacteroides ureolyticus,"(Benno et al., 1989)",NZ_KB894742
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter coli,"(Penner & Hennessy, 1980)",NC_022347.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter concisus,"(Vandamme et al., 1989)",NZ_ANNI01000003.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter curvus,"(Hansen et al., 2013)",NC_009715.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter faecalis,"(Kachler et al., 2000)",none
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter fetus,"(Veron & Chatelain, 1973)",NC_008599.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter gracilis,"(Wexler et al., 1996)",NZ_ACYG01000009.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter hominis,"(Lawson et al., 2001)",NC_009714.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter hyointestinalis,"(Vandamme et al., 1991)",none
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter jejuni,"(Paisley et al., 1982)",NC_002163.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter lari,"(Simor & Wilcox, 1987)",NC_012039.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter rectus,"(Wexler et al., 1996)",NZ_ACFU01000008.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter showae,"(Hansen et al., 2013)",NZ_AMZQ01000008.1
+Proteobacteria,Epsilon-Campylobacterales,Campylobacteraceae,Campylobacter upsaliensis,"(Goossens et al., 1990)",GL622227.1
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Flexispira rappini,"(Archer et al., 1988)",none
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Helicobacter canadensis,"(Fox et al., 2000)",NZ_CM000776.2
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Helicobacter cinaedi,"(Engberg et al., 2000)",NC_020555.1
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Helicobacter pullorum,"(Stanley et al., 1994)",NZ_DS990441.1
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Helicobacter pylori,"(McGowan et al., 1996)",NC_012973.1
+Proteobacteria,Epsilon-Campylobacterales,Helicobacteraceae,Helicobacter winghamensis,"(Melito et al., 2001)",NZ_GG661976.1
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas allosaccharophila,"(Janda & Abbott, 1998)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas bestiarum,"(Janda & Abbott, 1998)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas caviae,"(Kirov et al., 1999)",NZ_CACP01000025.1
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas enteropelogenes,"(Carnahan et al., 1991)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas hydrophila,"(Pitarangsi et al., 1982)",NC_021290.1
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas jandaei,"(Janda & Abbott, 1998)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas media,"(Janda & Abbott, 1998)",NZ_ALJZ02000073.1
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas tecta,"(Demarta et al., 2008)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas trota,"(Janda & Abbott, 1998)",none
+Proteobacteria,Gamma-Aeromonadales,Aeromonadaceae,Aeromonas veronii,"(Hickman-Brenner et al., 1987)",NC_015424.1
+Proteobacteria,Gamma-Aeromonadales,Succinivibrionaceae,Anaerobiospirillum thomasii,"(Malnick, 1997)",none
+Proteobacteria,Gamma-Aeromonadales,Succinivibrionaceae,Anaerobiospirillum succiniciproducens,"(Malnick, 1997)",AXWV01000001.1
+Proteobacteria,Gamma-Aeromonadales,Succinivibrionaceae,Succinatimonas hippei,"(Morotomi et al., 2009)",NZ_GL831071.1
+Proteobacteria,Gamma-Aeromonadales,Succinivibrionaceae,Succinivibrio dextrinosolvens,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Averyella dalhousiensis,"(Johnson et al., 2005)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Cedecea davisae,"(Grimont et al., 1981)",NZ_KE161030.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter amalonaticus,"(Brenner et al., 1993)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter braakii,"(Brenner et al., 1993)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter farmeri,"(Brenner et al., 1993)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter intermedius,"(Kumar & Sharma, 1978)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter koseri,"(Brenner et al., 1999)",NC_009792.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter freundii,"(Finegold et al., 1974)",JH414886.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter gillenii,"(Brenner et al., 1999)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter murliniae,"(Brenner et al., 1999)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter sedlakii,"(Brenner et al., 1993)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter werkmanii,"(Brenner et al., 1993)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Citrobacter youngae,"(Brenner et al., 1993)",GG730299.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Cronobacter sakazakii,"(Lagier et al., 2012)",NC_009778.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Edwardsiella tarda,"(Ewing et al., 1965)",NC_017309.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter aerogenes,"(Finegold et al., 1977)",NC_015663.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter asburiae,"(Brenner et al., 1986)",NC_015968.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter cancerogenus,"(Farmer et al., 1985)",GG704863.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter cloacae,"(Finegold et al., 1974)",NC_018079.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter hormaechei,"(McLaughlin et al., 2010)",GL892086.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter ludwigii,"(Hoffmann et al., 2005)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Enterobacter massiliensis,"(Lagier et al., 2012)",CAEO01000119.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Escherichia albertii,"(Huys et al., 2003)",CH991859.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Escherichia coli,"(Moore & Holdeman, 1974)",NC_004431.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Escherichia fergusonii,"(Farmer et al., 1985)",NC_011740.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Escherichia hermannii,"(Pfleiderer et al., 2013)",BAFF01000001.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Hafnia alvei,"(Finegold et al., 1974)",NZ_JH417552.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Klebsiella oxytoca,"(Tullus et al., 1988)",NC_016612.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Klebsiella pneumoniae,"(Moore & Holdeman, 1974)",FO203501.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Kluyvera ascorbata,"(McLaughlin et al., 2010)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Leminorella grimontii,"(Hickman-Brenner et al., 1985)",AUUA01000001.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Leminorella richardii,"(Hickman-Brenner et al., 1985)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Moellerella wisconsensis,"(Hickman-Brenner et al., 1984)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Morganella morganii,"(Müller, 1986)",NC_020418.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Pantoea agglomerans,"(Dubourg et al., 2013)",NZ_BAEF01000001.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Plesiomonas shigelloides,"(Pitarangsi et al., 1982)",NZ_KB944511.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Proteus mirabilis,"(Müller, 1986)",NC_010554.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Proteus penneri,"(Müller, 1986)",GG661998.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Proteus vulgaris,"(Müller, 1986)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Providencia alcalifaciens,"(Müller, 1986)",NZ_KB233230.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Providencia rettgeri,"(Müller, 1986)",NZ_CM001774.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Providencia rustigianii,"(Müller, 1986)",NZ_GG703819.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Providencia stuartii,"(Ewing, 1962)",NC_017731.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Raoultella planticola,"(Podschun et al., 1998; Drancourt et al., 2001)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Raoultella terrigena,"(Podschun, 1991; Drancourt et al., 2001)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Salmonella enterica,"(Aleksic et al., 1996; Tindall et al., 2005)",NC_016832.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Serratia ficaria,"(Pfleiderer et al., 2013)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Serratia fonticola,"(Woodmansey et al., 2004)",NZ_ASZA01000002.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Serratia liquefaciens,"(Moore & Holdeman, 1974)",NC_021741.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Serratia marcescens,"(Grimont & Grimont, 1978)",NC_020211.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Shigella dysenteriae,"(Wathen-Grady et al., 1990)",NC_007606.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Shigella flexneri,"(Castellani & Chalmers, 1919)",NC_004741.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Shigella sonnei,"(Ott et al., 2004)",NC_007384.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Tatumella ptyseos,"(Hollis et al., 1981)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Trabulsiella guamensis,"(McWhorter et al., 1991)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia aleksiciae,"(Sprague & Neubauer, 2005)",none
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia bercovieri,"(Wauters et al., 1988)",NZ_AALC02000031.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia enterocolitica,"(Dolina & Peduzzi, 1993) ",NC_008800.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia frederiksenii,"(Ursing et al., 1980)",NZ_AALE02000003.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia kristensenii,"(Dolina & Peduzzi, 1993)",NZ_ACCA01000009.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia pseudotuberculosis,"(Chiesa et al., 1993)",NC_006155.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yersinia rohdei,"(Aleksic et al., 1987)",NZ_ACCD01000001.1
+Proteobacteria,Gamma-Enterobacteriales,Enterobacteriaceae,Yokenella regensburgei,"(Ursing et al., 1980)",NZ_JH417873.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Actinobacillus pleuropneumoniae,"(Bik et al., 2006)",NC_009053.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Aggregatibacter aphrophilus,"(Bik et al., 2006; Nørskov-Lauritsen & Kilian, 2006)",NC_012913.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Haemophilus haemolyticus,"(McLaughlin et al., 2010)",AJSV01000008.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Haemophilus influenzae,"(Bik et al., 2006)",NC_009567.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Haemophilus parainfluenzae,"(Lagier et al., 2012)",NC_015964.1
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Haemophilus quentini,"(Milisavljevic et al., 2013)",none
+Proteobacteria,Gamma-Pasteurellales,Pasteurellaceae,Haemophilus sputorum,"(Li et al., 2008)",NZ_ALJP01000009.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter baumannii,"(Pandey et al., 2012)",NC_011586.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter calcoaceticus,"(Proskuriakova et al., 1982)",NC_016603.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter haemolyticus,"(Piechaud et al., 1956)",NZ_GG770435.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter johnsonii,"(Castellani & Chalmers, 1919)",NZ_KB849705.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter junii,"(Bik et al., 2006)",NZ_GG705011.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter lwoffii,"(Wang et al., 2005)",NZ_CM001194.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter pittii,"(Pandey et al., 2012)",NZ_KB976991.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter radioresistens,"(Lagier et al., 2012)",NZ_KB849733.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Acinetobacter septicus,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Moraxella catarrhalis,"(Drasar & Hill, 1974)",NC_014147.1
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Moraxella osloensis,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Pseudomonadales,Moraxellaceae,Psychrobacter arenosus,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas alcaliphila,"(Ley et al., 2006)",NZ_ANGB01000007.1
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas aeruginosa,"(Drasar & Hill, 1974)",NC_008463.1
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas fluorescens,"(Lambert-Zechovsky et al., 1985)",NC_012660.1
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas monteilii,"(Elomari et al., 1997)",NZ_AHGZ01000178.1
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas nitroreducens,"(Ley et al., 2006)",none
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas oleovorans,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas putida,"(Lambert-Zechovsky et al., 1985)",NC_010501.1
+Proteobacteria,Gamma-Pseudomonadales,Pseudomonadaceae,Pseudomonas stutzeri,"(Lagier et al., 2012)",NC_018177.1
+Proteobacteria,Gamma-Vibrionales,Vibrionaceae,Grimontia hollisae,"(Hickman, 1982; Thompson et al., 2003)",ADAQ01000013.1
+Proteobacteria,Gamma-Vibrionales,Vibrionaceae,Vibrio fluvialis,"(Lee et al., 1981)",NZ_ASXS01000001.1
+Proteobacteria,Gamma-Vibrionales,Vibrionaceae,Vibrio furnissii,"(Brenner et al., 1983)",NC_016602.1& NC_016628.1
+Proteobacteria,Gamma-Vibrionales,Vibrionaceae,Vibrio mimicus,"(Chowdhury et al., 1987)",ADAF01000001.1
+Proteobacteria,Gamma-Vibrionales,Vibrionaceae,Vibrio parahaemolyticus,"(Molenda et al., 1972)",NC_004603.1 & NC_004605.1
+Proteobacteria,Gamma-Xanthomonadales,Sinobacteraceae,Nevskia ramosa,"(Walker et al., 2011)",NZ_ATVI01000005.1
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Lysobacter soli,"(Lagier et al., 2012)",none
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas mexicana,"(McLaughlin et al., 2010)",none
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Rhodanobacter ginsenosidimutans,"(Wang et al., 2003)",none
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Silanimonas lenta,"(Walker et al., 2011)",AUBD01000001.1
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Stenotrophomonas maltophilia,"(Apisarnthanarak et al., 2003)",NC_010943.1
+Proteobacteria,Gamma-Xanthomonadales,Xanthomonadaceae,Stenotrophomonas rhizophila,"(Lagier et al., 2012)",none
+Spirochaetes,Spirochaetales,Brachyspiraceae,Brachyspira aalborgi,"(Mikosza et al., 2001)",none
+Spirochaetes,Spirochaetales,Brachyspiraceae,Brachyspira pilosicoli,"(Mikosza et al., 2001)",NC_014330.1
+Spirochaetes,Spirochaetales,Spirochaetaceae,Treponema berlinense,"(Tito et al., 2012)",none
+Synergistetes,Synergistales,Synergistaceae,Cloacibacillus evryensis,"(Ganesan et al., 2008)",none
+Synergistetes,Synergistales,Synergistaceae,Pyramidobacter piscolens,"(Lagier et al., 2012)",ADFP01000047.1
+Tenericutes,Mollicutes-Mycoplasmatales,Mycoplasmataceae,Mycoplasma pneumoniae,"(Chen et al., 2001)",NC_020076.1
+Tenericutes,Mollicutes-Mycoplasmatales,Mycoplasmataceae,Mycoplasma hominis,"(Munday et al., 1981)",NC_013511.1
+Tenericutes,Mollicutes-Mycoplasmatales,Mycoplasmataceae,Ureaplasma urealyticum,"(Munday et al., 1981)",NC_011374.1
+Tenericutes,Mollicutes-Mycoplasmatales,Mycoplasmataceae,Ureaplasma parvum,"(Milisavljevic et al., 2013)",NC_010503.1
+Verrucomicrobia,Verrucomicrobiales,Verrucomicrobiaceae,Prosthecobacter fluviatilis,"(McLaughlin et al., 2010)",none
+Verrucomicrobia,Verrucomicrobiales,Verrucomicrobiaceae,Akkermansia muciniphila,"(Derrien et al., 2004)",NC_010655.1
+Thaumarchaeota,Nitrososphaerales,Nitrososphaeraceae,Nitrososphaera gargensis,"(Rieu-Lesme et al., 2005)",NC_018719.1
+Crenarchaeota,Thermoprotei-Sulfolobales,Sulfolobaceae,Sulfolobus solfataricus,"(Rieu-Lesme et al., 2005)",NC_017274.1
+Euryarchaeota,Halobacteria-Halobacteriales,Halobacteriaceae,Halorubrum koreense,"(Nam et al., 2008)",none
+Euryarchaeota,Halobacteriales,Halobacteriaceae,Halococcus morrhuae,"(Nam et al., 2008)",NZ_AOMC01000152.1
+Euryarchaeota,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter ruminantium,"(Nottingham & Hungate, 1968)",NC_013790.1
+Euryarchaeota,Methanobacteriales,Methanobacteriaceae,Methanosphaera stadtmanae,"(Miller & Wolin, 1985)",NC_007681.1
+Euryarchaeota,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter smithii,"(Miller & Wolin, 1986)",NC_009515.1
+Euryarchaeota,Methanomicrobia,unclassified Methanomicrobia,Methanomassiliicoccus luminyensis,"(Dridi et al., 2012)",NZ_CAJE01000012.1
