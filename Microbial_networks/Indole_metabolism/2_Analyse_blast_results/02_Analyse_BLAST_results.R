@@ -22,10 +22,6 @@ kegg_input$gut <- kegg_input$gut1 + kegg_input$gut2 + kegg_input$gut3
 kegg_input$gut <- ifelse(kegg_input$gut == 0, FALSE, TRUE) 
 
 ## Define variable names
-names_blast_out <- c("sseqid", "qseqid", "pident", "length", "mismatch", "gapopen", 
-                     "qstart", "qend", "sstart", "send", "evalue", "bitscore", 
-                     "staxid", "ssciname","scomname","sblastname", "sskingdom", 
-                     "staxids", "sscinames", "scomnames", "sblastnames","sskingdoms")
 names_blast_filtered <- c("staxid", "ssciname","scomname","sblastname", "sskingdom")
 
 ## Get list of blast files
@@ -50,8 +46,7 @@ for (file in blast_files) {
     kegg_name_short <- as.character(gene_subset$organism_name_short)
     
     ## Import BLAST output ##
-    blast_out <- na.omit(read.csv(paste("./Indole_metabolism/2_Analyse_blast_results/BLAST_output/", file, sep = ""), header = FALSE))
-    colnames(blast_out) <- names_blast_out
+    blast_out <- na.omit(read.csv(paste("./Indole_metabolism/2_Analyse_blast_results/BLAST_output/", file, sep = ""), header = TRUE))
     
     ## Check whether all KEGG queries have been matched ##
     queries <- unique(sort(as.character(blast_out$qseqid)))
